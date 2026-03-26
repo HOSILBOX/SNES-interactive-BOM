@@ -8,6 +8,10 @@ I wanted an easier-to-read version, so I created an interactive BOM (iBOM) in Ki
 
 I'm not usually a GitHub user, so apologies if I'm doing something wrong.
 
+## Usage
+
+Download the file and open `.html` in your browser.
+
 ## Currently done:
 
 |SHVC-CPU-01|
@@ -15,8 +19,11 @@ I'm not usually a GitHub user, so apologies if I'm doing something wrong.
 ## To do:
 
 NS-CPU-GPM-02
+
 SHVC-CPU-01
+
 SNS-CPU-RGB-01
+
 SNS-CPU-RGB-02
 
 
