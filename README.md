@@ -1,19 +1,21 @@
+WORK IN PROGRESS
 
 # Overview
 
-This is a list I made for myself of the electrolytics capacitors from Super Nintendo / Famicom motherboards.
-It includes all the specs from the original boards, in order to find exact modern replacements.
+This is a fork of Altomare's BOM.
 
-This only contains lists for the boards I repaired myself.
+I wanted an easier-to-read version, so I created an interactive BOM (iBOM) in KiCad.
 
+I'm not usually a GitHub user, so apologies if I'm doing something wrong.
 
-Pitch means lead spacing for radial leaded caps (through-hole).
+## Currently done:
+|SHVC-CPU-01|
 
-
-The capacitor_bom.xls contains a list of modern replacements for some of the boards.
-It can be imported on major resellers websites like Farnell, Digikey, Mouser...
-
-At the moment, it only contains a BOM for the SHVC-CPU-01 boards.
+##To do:
+NS-CPU-GPM-02
+SHVC-CPU-01
+SNS-CPU-RGB-01
+SNS-CPU-RGB-02
 
 
 # Super Famicom (NTSC)
@@ -107,7 +109,3 @@ Some useful links if you plan on restoring your SNES/SFC:
 - https://www.retrorgb.com/restoring-a-super-nintendo.html
 
 
-
-# TODO
-
-- Extend BOM for other boards
