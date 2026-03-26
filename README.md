@@ -9,9 +9,11 @@ I wanted an easier-to-read version, so I created an interactive BOM (iBOM) in Ki
 I'm not usually a GitHub user, so apologies if I'm doing something wrong.
 
 ## Currently done:
+
 |SHVC-CPU-01|
 
-##To do:
+## To do:
+
 NS-CPU-GPM-02
 SHVC-CPU-01
 SNS-CPU-RGB-01
